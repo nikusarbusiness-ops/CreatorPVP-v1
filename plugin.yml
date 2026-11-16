@@ -1,0 +1,17 @@
+name: ClanPvP
+version: 1.0.0
+main: de.clanpvp.ClanPvP
+api-version: '1.21'
+description: Clans, Clan-Chat, Combat-Tag mit Beute-Menü und Spielerrekord
+commands:
+  clan:
+    description: Clan-Befehle
+    usage: /clan help
+    aliases: [clans]
+  cc:
+    description: Clan-Chat (ohne Text = an/aus)
+    usage: /cc [Nachricht]
+  rekord:
+    description: Zeigt den All-Time-Spielerrekord
+    usage: /rekord
+    aliases: [record]

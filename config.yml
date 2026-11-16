@@ -1,0 +1,15 @@
+# Sekunden, die man nach einem Treffer im Kampf ist
+combat-seconds: 20
+
+# Sekunden, die der Killer Zeit hat, sich ein Item auszusuchen (danach wird zufällig gewählt)
+auswahl-sekunden: 30
+
+# true  = Killer nimmt sich 1 Item, den Rest behält das Opfer (direkt im Inventar)
+# false = Killer nimmt sich 1 Item, den Rest bekommt ebenfalls der Killer
+rest-an-opfer: true
+
+# Dürfen Clan-Mitglieder sich gegenseitig schlagen?
+friendly-fire: false
+
+# Maximale Mitglieder pro Clan
+max-clan-mitglieder: 10
